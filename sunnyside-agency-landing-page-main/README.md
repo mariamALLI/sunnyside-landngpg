@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/mariamALLI/sunnyside-landngpg.git)
-- Live Site URL: [Netlify](https://sunnysidelandngpg.netlify.app/)
+- Live Site URL: [Netlify](https://sunnyside-agency-landngpg.netlify.app/)
   
 
 ## My process
